@@ -1,0 +1,13 @@
+flask
+flask-cors
+faiss-cpu
+sentence-transformers
+google-generativeai
+pypdf2
+requests
+numpy
+scikit-learn
+tqdm
+pandas
+python-dotenv
+gunicorn
